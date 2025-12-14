@@ -1,6 +1,8 @@
-# NYU Undergrads Developed Egyptian Hieroglyph Recognition Applications at ArchaeoHack 2025
+# NYU Undergrads Develop Egyptian Hieroglyph Recognition Apps at ArchaeoHack 2025
 
 *By Tianrui Zhu, Manolis Mavromatis, and Stefano Aprà*
+
+December 2025
 
 On November 15–16, 2025, the NYU Institute for the Study of the Ancient World (ISAW) hosted **ArchaeoHack 2025**, the first university-level hackathon dedicated to archaeology and the ancient world. The event brought together undergraduate students from across New York University to explore how Machine Learning and Artificial Intelligence can address a long-standing challenge in ancient language studies: the lack of a user-friendly input system for ancient Egyptian hieroglyphs.
 
